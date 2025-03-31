@@ -1,2 +1,0 @@
-Data/clean_data.csv filter=lfs diff=lfs merge=lfs -text
-Data/fraud_data.csv filter=lfs diff=lfs merge=lfs -text
